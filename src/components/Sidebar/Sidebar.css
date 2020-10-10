@@ -1,0 +1,13 @@
+.sidebar {
+    width: 100%;
+    display: inline-table;
+    margin-right: 10px;
+    border-radius: 6px;
+    background-color: inherit;
+    border: 1px solid #3c3f43;
+    /* box-shadow: 1px 1px 0.5px grey; */
+}
+
+.sidebar .active {
+    color: rgb(0, 140, 255) !important;
+}
